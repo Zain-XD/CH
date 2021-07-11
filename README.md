@@ -12,7 +12,6 @@
 > cd Jutt
 # 
 > ls
-# 
 > python2 Jutt.py
 
 # About 🎸
