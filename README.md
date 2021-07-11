@@ -20,6 +20,11 @@
 # 
 > python2 Jutt.py
 
+# Tool Password And User Name
+Username = ZANI
+Password = ZAIN
+
+
 # About 🎸
 
 > [✓] Without Login Commands <
