@@ -14,7 +14,7 @@
 # 
 > git clone https://github.com/Zain-XD/CH.git
 # 
-> cd Jutt
+> cd CH
 # 
 > ls
 # 
